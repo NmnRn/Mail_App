@@ -68,7 +68,6 @@ After that, run the application again.
 
 ▶️ How to Run
 bash
-Kodu kopyala
 python app.py
 On the first successful run:
 
